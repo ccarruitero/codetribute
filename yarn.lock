@@ -6371,10 +6371,10 @@ mdast-add-list-metadata@1.0.1:
   dependencies:
     unist-util-visit-parents "1.1.2"
 
-mdi-react@^5.0.0:
-  version "5.2.0"
-  resolved "https://registry.yarnpkg.com/mdi-react/-/mdi-react-5.2.0.tgz#a46d83434aae0f9229365b4db98b6950b6775ebf"
-  integrity sha512-q0zeUZbissoRVouq9JYSTrr/+2qk2P0dJI9N2m/TvZDX5RMcwHsVxffiqisjlo2m6cbXiCzAQaGaGmjoPfC4Pg==
+mdi-react@^6.0.0:
+  version "6.2.0"
+  resolved "https://registry.yarnpkg.com/mdi-react/-/mdi-react-6.2.0.tgz#861f2fe6dea0721b416eef776ba839333087ef31"
+  integrity sha512-IM1+/YjJ5DJ4rWKDqphfxra6RM52T6Yiki1pr7dJzoE8B5SoPln0D3wwPMWuwEm9fd8oqsM8eMwAYuim3tgmzg==
 
 media-typer@0.3.0:
   version "0.3.0"
